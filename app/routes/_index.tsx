@@ -11,10 +11,10 @@ export default function Index() {
   return (
     <div>
       <section className="w-full h-[70vh] md:h-[90vh] items-center flex justify-center  background">
-        <div className="flex flex-col content-center text-center bg-[#F0F1EB] p-10 border-4 border-black mx-5">
-          <div className="text-6xl mb-4 font-cursive"><span className="text-[#E9B82C]">Kyu</span>, <span className="text-[#C1C4B1]">Jax</span> and <span className="text-[#E8652D]">Nala's</span></div>
-          <div className="text-red-500 text-4xl">1st</div>
-          <div className="text-[#529DB8] text-6xl md:text-[5rem] font-semibold space tracking-widest scale-y-150 mt-4 md:mt-10 uppercase">
+        <div className="flex flex-col content-center text-center bg-[#F0F1EB] p-8 md:p-10 border-4 border-black mx-5">
+          <div className="text-4xl md:text-6xl mb-4 font-cursive"><span className="text-[#E9B82C]">Kyu</span>, <span className="text-[#C1C4B1]">Jax</span> and <span className="text-[#E8652D]">Nala's</span></div>
+          <div className="text-red-500 text-2xl md:text-4xl">1st</div>
+          <div className="text-[#529DB8] text-5xl md:text-[5rem] font-extrabold uppercase space tracking-widest scale-y-[2] mt-5 md:mt-14 md:mb-10">
             Barkday!
           </div>
           {/* <div className="text-3xl">November 30th, 2024</div> */}
@@ -22,7 +22,7 @@ export default function Index() {
       </section>
       <section className="w-full items-center flex justify-center bg-[#E9B82C] border-y-4 border-black">
         <div className="bg-[#F0F1EB] h-[70vh] my-32 w-[800px] border-4 border-black mx-3">
-          <div className="items-center flex flex-col justify-center w-[300px] mx-auto my-20 gap-7 text-center relative">
+          <div className="items-center flex flex-col justify-center w-[250px] md:w-[300px] mx-auto my-20 gap-7 text-center relative">
             {/* <img src="./cake1.png" className="w-60 absolute top-[-200px]"/> */}
             <div className="text-2xl font-mono leading-snug pt-10">
               Please join us to celebrate Kyu, Jax and Nala's 1st Birthday
@@ -41,7 +41,7 @@ export default function Index() {
         </div>
       </section>
       <section className="w-full h-full bg-[#529DB8]">
-        <div className="flex flex-col justify-center w-[300px] mx-auto gap-7 text-center pb-10">
+        <div className="flex flex-col justify-center w-[250px] md:w-[300px] mx-auto gap-7 text-center pb-10">
           <div className="text-2xl font-semibold leading-snug mt-10 bg-[#F0F1EB] border-4 border-black">
             For Direction
           </div>
