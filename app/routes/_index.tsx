@@ -2,7 +2,7 @@ import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Furry Friends Invite" },
+    { title: "Kyu, Jax and Nala's Barkday Invitaion!" },
     { name: "description", content: "Please Come to our birthday!" },
   ];
 };
