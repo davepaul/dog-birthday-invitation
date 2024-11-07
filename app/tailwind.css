@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-white ;
+
+  @media (prefers-color-scheme: light) {
+    color-scheme: light;
+  }
+}
+
+.background {
+  background-image: url("background.jpeg");
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.mapouter {
+  position: relative;
+  text-align: right;
+  width: 100%;
+  height: 385px;
+}
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  width: 100%;
+  height: 385px;
+}
+.gmap_iframe {
+  height: 385px !important;
+}
