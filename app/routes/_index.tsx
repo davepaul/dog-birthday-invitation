@@ -13,8 +13,8 @@ export default function Index() {
       <section className="w-full h-[70vh] md:h-[90vh] items-center flex justify-center  background">
         <div className="flex flex-col content-center text-center bg-[#F0F1EB] p-10 border-4 border-black mx-5">
           <div className="text-6xl mb-4 font-cursive"><span className="text-[#E9B82C]">Kyu</span>, <span className="text-[#C1C4B1]">Jax</span> and <span className="text-[#E8652D]">Nala's</span></div>
-          <div className="font-cursive text-red-500 text-4xl">1st</div>
-          <div className="text-[#529DB8] text-6xl md:text-[5rem] font-cursive space tracking-widest scale-y-150 mt-4 md:mt-10">
+          <div className="text-red-500 text-4xl">1st</div>
+          <div className="text-[#529DB8] text-6xl md:text-[5rem] font-semibold space tracking-widest scale-y-150 mt-4 md:mt-10 uppercase">
             Barkday!
           </div>
           {/* <div className="text-3xl">November 30th, 2024</div> */}
