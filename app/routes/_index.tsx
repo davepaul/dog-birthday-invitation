@@ -25,18 +25,17 @@ export default function Index() {
           <div className="items-center flex flex-col justify-center w-[300px] mx-auto my-20 gap-7 text-center relative">
             {/* <img src="./cake1.png" className="w-60 absolute top-[-200px]"/> */}
             <div className="text-2xl font-mono leading-snug pt-10">
-              Please join us to celebrate Kyu's 1st Birthday
+              Please join us to celebrate Kyu, Jax and Nala's 1st Birthday
             </div>
             <div>
               When
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
-              Sep 26, 2035, 10:00 AM
+              November 30, 2024, 05:00 PM
             </div>
             <div>
               Where
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
-              Dylan's 1st Birthday, 500 Terry A Francois Blvd, San Francisco, CA
-              94158, USA
+              Kyu, Jax and Nala's 1st Birthday, Purok 6 Pritil, Ibayo, Guiguinto, Bulacan
             </div>
           </div>
         </div>
