@@ -41,12 +41,12 @@ export default function Index() {
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
             </div>
             <div>
-              When
+              <span className="text-[#529DB8]">When</span>
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
               November 30, 2024, 02:00 PM
             </div>
             <div>
-              Where
+              <span className="text-[#529DB8]">Where</span>
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
               Janella's Private Pool, Purok 6 Pritil, Ibayo, Guiguinto, Bulacan
             </div>
