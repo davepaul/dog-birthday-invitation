@@ -4,6 +4,14 @@ export const meta: MetaFunction = () => {
   return [
     { title: "Kyu, Jax and Nala's Barkday Invitaion!" },
     { name: "description", content: "Please Come to our birthday!" },
+    { property: "og:title", content: "Kyu, Jax and Nala's Barkday Invitaion" },
+    { property: "og:description", content: "Please Come to our birthday!" },
+    { property: "og:image", content: "https://furryfriendsinvite.vercel.app/background.jpg" },
+    { property: "og:url", content: "https://furryfriendsinvite.vercel.app" },
+    { name: "twitter:card", content: "summary_large_image" },
+    { name: "twitter:title", content: "Please Come to our birthday!" },
+    { name: "twitter:description", content: "Please Come to our birthday!" },
+    { name: "twitter:image", content: "https://furryfriendsinvite.vercel.app/background.jpg" },
   ];
 };
 
