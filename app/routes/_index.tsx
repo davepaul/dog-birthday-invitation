@@ -20,7 +20,7 @@ export default function Index() {
     <div>
       <section className="w-full h-[70vh] md:h-[90vh] items-center flex justify-center  background-sm">
         <div className="flex flex-col content-center text-center bg-[#F0F1EB] p-8 md:p-10 border-4 border-black mx-5">
-          <div className="text-4xl md:text-6xl mb-4 font-cursive"><span className="text-[#E9B82C]">Kyu</span>, <span className="text-[#C1C4B1]">Jax</span> and <span className="text-[#E8652D]">Nala's</span></div>
+          <div className="text-4xl md:text-6xl mb-4 font-cursive"><span className="text-[#E9B82C]">Kyu</span>, <span className="text-[#EB553F]">Jax</span> and <span className="text-[#E8652D]">Nala's</span></div>
           <div className="text-red-500 text-2xl md:text-4xl">1st</div>
           <div className="text-[#529DB8] text-5xl md:text-[5rem] font-extrabold uppercase space tracking-widest scale-y-[2] mt-5 md:mt-14 md:mb-10">
             Barkday!
