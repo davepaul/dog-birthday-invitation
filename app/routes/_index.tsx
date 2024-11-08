@@ -21,16 +21,21 @@ export default function Index() {
         </div>
       </section>
       <section className="w-full items-center flex justify-center bg-[#E9B82C] border-y-4 border-black">
-        <div className="bg-[#F0F1EB] h-[70vh] my-32 w-[800px] border-4 border-black mx-3">
+        <div className="bg-[#F0F1EB] my-32 w-[800px] border-4 border-black mx-3">
           <div className="items-center flex flex-col justify-center w-[250px] md:w-[300px] mx-auto my-20 gap-7 text-center relative">
             {/* <img src="./cake1.png" className="w-60 absolute top-[-200px]"/> */}
             <div className="text-2xl font-mono leading-snug pt-5">
               Please join us to celebrate Kyu, Jax and Nala's 1st Birthday
             </div>
+            <div className="font-mono leading-snug">
+              <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
+              🐾 Dress up your dog as their favorite character, but if they prefer to keep it casual, that’s totally fine too – we just want to see their adorable faces!
+              <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
+            </div>
             <div>
               When
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
-              November 30, 2024, 03:00 PM
+              November 30, 2024, 02:00 PM
             </div>
             <div>
               Where
@@ -41,7 +46,7 @@ export default function Index() {
         </div>
       </section>
       <section className="w-full h-full bg-[#529DB8]">
-        <div className="flex flex-col justify-center w-[250px] md:w-[300px] mx-auto gap-7 text-center pb-10">
+        <div className="flex flex-col justify-center w-[90%] mx-auto gap-7 text-center pb-10">
           <div className="text-2xl font-semibold leading-snug mt-10 bg-[#F0F1EB] border-4 border-black">
             For Direction
           </div>
