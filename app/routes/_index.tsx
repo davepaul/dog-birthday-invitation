@@ -35,7 +35,7 @@ export default function Index() {
             <div className="text-2xl font-mono leading-snug pt-5">
               Please join us to celebrate Kyu, Jax and Nala's 1st Birthday
             </div>
-            <div className="font-mono leading-snug">
+            <div className="text-sm font-mono leading-snug">
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
               🐾 Dress up your dog as their favorite character, but if they prefer to keep it casual, that’s totally fine too – we just want to see their adorable faces!
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
