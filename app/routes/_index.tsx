@@ -2,9 +2,9 @@ import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Kyu, Jax and Nala's Barkday Invitaion!" },
+    { title: "Kyu, Jax and Nala's Barkday Invitation!" },
     { name: "description", content: "Please Come to our birthday!" },
-    { property: "og:title", content: "Kyu, Jax and Nala's Barkday Invitaion" },
+    { property: "og:title", content: "Kyu, Jax and Nala's Barkday Invitation" },
     { property: "og:description", content: "Please Come to our birthday!" },
     { property: "og:image", content: "https://furryfriendsinvite.vercel.app/barkday-image.png" },
     { property: "og:url", content: "https://furryfriendsinvite.vercel.app" },
