@@ -24,18 +24,18 @@ export default function Index() {
         <div className="bg-[#F0F1EB] h-[70vh] my-32 w-[800px] border-4 border-black mx-3">
           <div className="items-center flex flex-col justify-center w-[250px] md:w-[300px] mx-auto my-20 gap-7 text-center relative">
             {/* <img src="./cake1.png" className="w-60 absolute top-[-200px]"/> */}
-            <div className="text-2xl font-mono leading-snug pt-10">
+            <div className="text-2xl font-mono leading-snug pt-5">
               Please join us to celebrate Kyu, Jax and Nala's 1st Birthday
             </div>
             <div>
               When
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
-              November 30, 2024, 05:00 PM
+              November 30, 2024, 03:00 PM
             </div>
             <div>
               Where
               <hr className="w-[20px] h-0.5 bg-black mx-auto my-1" />
-              Kyu, Jax and Nala's 1st Birthday, Purok 6 Pritil, Ibayo, Guiguinto, Bulacan
+              Janella's Private Pool, Purok 6 Pritil, Ibayo, Guiguinto, Bulacan
             </div>
           </div>
         </div>
